@@ -1,0 +1,10 @@
+DONE javascript function to verify dates in the booking
+resevation dates has to be greater than the current date
+end date has to be bigger than the start date
+
+php function when the website is loaded in the hone page to delete
+bookings that ended ~ if you have time because it will need servral
+days to verify
+
+
+https://www.holidayhub.infinityfreeapp.com

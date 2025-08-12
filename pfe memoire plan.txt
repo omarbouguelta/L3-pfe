@@ -1,0 +1,21 @@
+Introduction : L'objectif du projet et les motivations pour la création d'un site web de location de vacances.
+
+Contexte et justification : Les raisons de l'importance du site web et la réponse à un besoin sur le marché 
+sont expliquées. Les différents sites web de location de vacances existants sont énumérés et ce qui les 
+différencie du site web en question est décrit.
+
+Objectifs : Les objectifs clés pour le site web sont décrits.
+
+Méthodologie de développement : Les étapes pour le développement du site web, y compris la conception, 
+la mise en œuvre et les tests, sont décrites. Les technologies et outils utilisés pour développer le 
+site sont également présentés.
+
+Caractéristiques et fonctionnalités : Les fonctionnalités clés du site web, telles que la réservation 
+d'hébergement, la recherche de dernière minute, l'enregistrement des préférences, la messagerie sur le 
+site, les notes et avis, et le chatbot, sont décrites.
+
+Résultats et évaluation : Les résultats obtenus lors des tests sont présentés et la façon d'évaluer les 
+performances du site est décrite.
+
+Conclusion : La conclusion présente les observations et résumé des résultats. Les perspectives futures 
+pour le site web, y compris les améliorations possibles, sont également décrites.

@@ -1,0 +1,62 @@
+@startuml
+left to right direction
+
+actor User
+actor "Website System"
+actor Host
+
+rectangle Available_Seating_Management_System {
+
+Host --> (Add a place)
+(Add a place) ..> (Registration/Login) : include
+
+(Google) ..> (Registration/Login) : include
+(Registration forme) ..> (Registration/Login) : include
+
+
+User --> (Chatbot)
+
+(Chatbot) --> (Turoial)
+(Turoial) --> (Registration/Login) : redirects
+
+User --> (Available Venues)
+
+(Use filter) ..> (Available Venues) : extends
+
+ (Price) ..> (Use filter) : extends
+ (House or apartment) ..> (Use filter) : extends
+ (Shared room)..> (Use filter): extends
+ (Last minute place)..> (Use filter): extends
+ (Private room)..> (Use filter): extends
+ (Location)..> (Use filter) : extends
+
+User --> (Select Venue)
+
+(Chat) ..> (Select Venue): include
+
+Host --> (Chat)
+
+(Rate a place) ..>(Select Venue)  : extends
+(Save to wishlist) ..>(Select Venue)  : extends
+(Share the place with friends) ..>(Select Venue)  : extends
+
+User --> (Reserve a seat on demand)
+
+
+(Reserve a seat on demand) ..> (Registration/Login) : include
+(Reserve a seat on demand) ..> (Select Venue) : include
+(Reserve a seat on demand) ..> (Make offer) : include
+(Make offer) ..> (Confirmation): include
+
+Host --> (Confirmation)
+
+
+
+
+
+"Website System" --> (Available Venues) : show
+"Website System" --> (Book Venue On Demand) : option
+"Website System" --> (Chatbot) : option
+}
+
+@enduml

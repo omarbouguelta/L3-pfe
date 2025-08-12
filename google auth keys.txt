@@ -1,0 +1,4 @@
+client_id
+1074084558413-cu90j25ah3b5c3pt321kcs8ljd829hc4.apps.googleusercontent.com
+client_secret
+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
