@@ -1,0 +1,146 @@
+page 1 : page de garde
+
+Good morning everyone! Allow me to introduce myself. My name is Omar Bouguelta, and I am currently a third-year computer science student. Before I begin my presentation, I would like to express my gratitude to the esteemed members of the jury and my advisor for their support and guidance. Today, I am thrilled to present my "project de fin d'étude" titled "title".
+
+-Plan Page:
+In this presentation, we will follow this plan (Show them one by one and read the name before moving to the next one)
+
+-introduction:
+Tourism in Algeria is booming, but finding affordable and quality accommodation is a challenge. Our online platform provides a simple solution, offering user-friendly access to housing for holidays in Algeria. With easy registration and last-minute options, we aim to create an enjoyable and stress-free travel experience. Registering houses and inviting friends enhances the possibilities for group vacations and sustainable memories. Integrated messaging, reviews, and ratings help make informed booking decisions, while our chat bot provides quick assistance for any traveler queries or issues.
+
+-context page:
+Moving to the context that comprehensively delves into the various challenges and objectives that the website aims to address and resolve. By exploring the context, we gain a deeper understanding of the issues at hand and the goals that our platform seeks to achieve. 
+
+-problems page :
+now, our tourist needs to make his ideal choice, he also has to not waste so much time searching.
+let's say he liked a property from it's picture, what is the others experience on this one? is it cool 
+like the picture?, is it available right away after the purchase? 
+finaly our tourist got his desired house and wants to brag to his family and friends, a simple way to share is needed.
+
+-objectif page:
+this  questions leads us to trace the following objectifs :
+
+the tourist needs to find his desired place fast, and for that all the available places will be added in a one page that contains everything, is that all? Well a filter will be added to search for specific details like price , date... etc
+
+to know how much good is the place, users should be able to give their opinions about it, here comes comments & rating! offering a clear view on the property experience, and giving our guy a clear look on how he is going to pass his vacation
+
+Ok now, let's say the tourist is on a rush, he needs the place right away after he pays , a little checkbox can save an extra time looking for a last-minute house!
+
+Our tourist has finaly found his ideal choice, he wants badly to brag about it to his family/friends, a simple share button will automatically save the house link to be shared easly on social media and other platforms
+
+-conception page:
+a website like this, that can provide all this services needs to have an orgenized system to sort everything for everyone, let's talk 
+about the conception now.
+here is a set of diagram that will help getting a breive idea on how the website works starting with the use case diagram, this one
+presents the different option that a user and a host can explore in order to accomplish their tasks all provided and manages by the website system.
+here is the class diagram and the activity diagram
+
+-presentation page: 
+moving off the boring stuff, we want to see how the website looks like, how does it feel to use it and experience what it can provide!
+
+home page:
+for the home page, a realxing background with fewer buttons will help begginers feel comfortable discovering the website
+
+chatbot page:
+for the users who are still confused about what this website is about a small assistant with a hint says "lets' chat"
+bring the them to chat with responsive and friendly bot that will help them get a general idea and lead them to the sign-up page
+
+authentification page:
+a user can choose between registring as a host or a clients by filing out a simple form ..., google auth services are availble for a fast login and sign-up
+
+listings page :
+here, all properties are in one place with a simple and accurate filter to reduce searching time and to help making the right decision
+
+commets page:
+Experiences can simply be shared with a comments to let the new visitors know more about the property to avoid a scam 
+or to make the best choice
+
+conclusion:
+Finaly, our platform added a value for travelers to Algeria,
+by allowing them to plan a stress-free vacation. We are proud of our
+contribution to the development of the tourism sector in Algeria...
+as a conlude i will take the chance to thank the juries for their time
+and also my superviser for helping me achieving to this point that's all for my presentation
+i wish a happy day for you all...
+
+
+
+
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+
+French version:
+
+
+
+page 1 : page de garde
+
+Bonjour tout le monde! Permettez-moi de me présenter. Je m'appelle Omar Bouguelta, et je suis actuellement étudiant en troisième année d'informatique. Avant de commencer ma présentation, je tiens à exprimer ma gratitude aux membres estimés du jury pour leurs temps et à mon encadreur pour leurs conseils. Aujourd'hui, je suis ravie de vous présenter mon projet de fin d'étude intitulé "Site web de location de vacances".
+
+-Page Plan :
+Dans cette présentation, nous suivrons ce plan (Montrez-les un par un et lisez le nom avant de passer au suivant)
+
+-introduction:
+Ok, (Gather your hands and smile)Le tourisme en Algérie est en plein essor, mais trouver un hébergement abordable et de qualité est un défi. Notre plateforme en ligne apporte une solution simple, offrant un accès convivial au logement pour les vacances en Algérie. 
+
+-page de contexte :
+Passer au contexte qui approfondit les différents défis et objectifs que le site Web vise à aborder et à résoudre. En explorant le contexte, nous acquérons une meilleure compréhension des problèmes à résoudre et des objectifs que notre plateforme cherche à atteindre.
+
+-page problèmes :
+maintenant, notre touriste doit faire son choix idéal, il doit aussi ne pas perdre trop de temps à chercher.
+disons qu'il a aimé une propriété d'après sa photo, quelle est l'expérience des autres sur celle-ci ? c'est cool
+comme la photo ?, est-il disponible immédiatement après l'achat ?
+Finalement, notre touriste a obtenu la maison qu'il souhaitait et veut se vanter auprès de sa famille et de ses amis, un moyen simple de partager est nécessaire.
+
+-page objectif :
+ces questions nous amène à tracer les objectifs suivants :
+
+le touriste a besoin de trouver rapidement l'endroit qu'il désire, et pour cela toutes les places disponibles seront ajoutées dans une seule page qui contient tout, c'est tout ? Eh bien, un filtre sera ajouté pour rechercher des détails spécifiques comme le prix, la date... etc.
+
+pour savoir à quel point l'endroit est bon, les utilisateurs doivent pouvoir donner leur avis à ce sujet, voici les commentaires et les notes ! offrant une vue claire sur l'expérience de la propriété et donnant à notre tourist un aperçu clair de la façon dont il va passer ses vacances
+
+Bon maintenant, disons que le touriste est pressé, il a besoin du logement tout de suite après avoir payé, une petite case à cocher peut lui faire gagner un temps supplémentaire à chercher une maison de dernière minute !
+
+Notre touriste a enfin trouvé son choix idéal, il a très envie de s'en vanter auprès de sa famille/amis, un simple bouton de partage enregistrera automatiquement le lien de la maison pour la partager facilement sur les réseaux sociaux et autres plateformes
+
+-page conception :
+un site Web comme celui-ci, qui peut fournir tous ces services doit avoir un système organisé pour tout trier pour tout le monde... Parlons-en sur la conception maintenant!
+
+voici un ensemble de diagrammes qui vous aideront à avoir une brève idée du fonctionnement du site Web en commençant par le diagramme de cas d'utilisation. 
+
+Celui-ci présente les différentes options qu'un utilisateur et un hôte peuvent explorer afin d'accomplir leurs tâches toutes fournies et gérées par le système de site Web.
+voici le diagramme de classe et le diagramme d'activité
+
+- page de présentation :
+en sortant des trucs ennuyeux, nous voulons voir à quoi ressemble le site Web, comment on se sent à l'utiliser et découvrir ce qu'il peut offrir !
+
+page d'accueil :
+pour la page d'accueil, un arrière-plan réaliste avec moins de boutons aidera les débutants à se sentir à l'aise pour découvrir le site Web
+
+page chatbot :
+pour les utilisateurs qui ne savent toujours pas ce qu'est ce site Web, un petit assistant avec un indice dit "Let's chat"
+amenez-les à discuter avec un bot réactif et convivial qui les aidera à avoir une idée générale et les conduira à la page d'inscription
+
+page d'authentification :
+un utilisateur peut choisir entre s'inscrire en tant qu'hôte ou client en remplissant un simple formulaire ..., les services d'authentification de google sont disponibles pour une connexion et une inscription rapides
+
+page des annonces :
+ici, toutes les propriétés sont au même endroit avec un filtre simple et précis pour réduire le temps de recherche et aider à prendre la bonne décision
+
+page de commentaires :
+Les expériences peuvent simplement être partagées avec des commentaires pour permettre aux nouveaux visiteurs d'en savoir plus sur la propriété afin d'éviter un scam
+ou pour faire le meilleur choix
+
+conclusion:
+Et pour conclure tout ca, notre plateforme a ajouté une valeur pour les voyageurs en Algérie,
+en leur permettant de planifier des vacances sans stress. Nous sommes fiers de notre
+contribution au développement du secteur touristique en Algérie...
+en guise de conclusion je profite de l'occasion pour remercier les jurys pour leur temps
+et aussi mon encadreur pour m'avoir aidé à atteindre ce point. 
+
+C'est tout pour ma présentation je vous souhaite une bonne journée à tous...
